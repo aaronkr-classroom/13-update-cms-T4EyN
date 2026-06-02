@@ -31,6 +31,7 @@
             <li><a href="search.php">
               <span class="icon-search"></span><span class="search-text">Search</span>
             </a></li>
+            <li><a href="./admin/index.php">Admin</a></li>
           </ul>
         </nav>
       </div><!-- /.container -->
